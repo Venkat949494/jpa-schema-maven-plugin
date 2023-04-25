@@ -159,7 +159,7 @@ You can override using `hibernate.dialect` property.
 * `Firebird`
     * `org.hibernate.dialect.FirebirdDialect` = all version
 
-## License
+#### License
 
 Source Copyright © 2013 Sin-young "Divinespear" Kang. Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses).
 
